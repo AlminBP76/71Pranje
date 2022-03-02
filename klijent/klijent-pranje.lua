@@ -75,4 +75,10 @@ AddEventHandler('operi:pare', function()
     operiPare(kolicinaPranje)
 end)  
 
+
+AddEventHandler("onResourceStop", function(res)
+	if GetCurrentResourceName() == res then
+	  exports.qtarget:RemoveZone('ParoPraona')
+	end
+  end) ----Za uklanjanje zone-a kad se stopa skripta----
 ---Protektajte od Exploitanja ovo, mozete ko sto je stifler uradio preko importsa u extendedu--------------------------
