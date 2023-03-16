@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,DAZN 1
+http://database.freetuxtv.net/playlists/playlist_webtv_sh.m3u
+#EXTINF:0,DAZN 2
+http://database.freetuxtv.net/playlists/playlist_webtv_sh.m3u
+#EXTINF:0,DAZN Sport 1 HD
+https://list.iptvcat.com/my_list/s/30b2ae9ad6b65efb9b4bac194be2563e.m3u8
+#EXTINF:0,DAZN Sport 2 HD
+https://list.iptvcat.com/my_list/s/f34437e28b548b03359a9cd3b29dfbd0.m3u8
+#EXTINF:0,Sport Klub
+https://list.iptvcat.com/my_list/s/bb079ac2dff0dcc182e6c9c8d1cf652e.m3u8
+#EXTINF:0,Sport Klub 2
+https://list.iptvcat.com/my_list/s/d9f0e35d7a108a828432485e2edd7fdb.m3u8
+#EXTINF:0,Sport Klub 3
+https://list.iptvcat.com/my_list/s/8b3583bcc8a086896f702a9e26773a1b.m3u8
+#EXTINF:0,Sport Klub 4
+https://list.iptvcat.com/my_list/s/f40485da5a65aa2a88cbe50c36bf908c.m3u8
